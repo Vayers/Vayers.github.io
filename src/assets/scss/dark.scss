@@ -1,0 +1,30 @@
+/**
+ * Made by: dbarenholz
+ */
+
+// import bulma core
+@import "~bulma/sass/utilities/_all";
+
+// overwrite black variable
+$black: rgba(24, 24, 24, 1);
+
+// Switch to dark theme
+$scheme-main: $black;
+$scheme-invert: $white;
+
+// import bulma and beufy styles
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
+
+$font: rgba(238, 235, 227, 1);
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  color: $font !important;
+}

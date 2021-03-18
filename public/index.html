@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: black;">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <!-- Raleway google font -->
+    <style>
+      /* Import the font */
+      @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap");
+      /* Set all things to use the font */
+      * {
+        font-family: "Raleway", sans-serif !important;
+      }
+    </style>
+    <!-- This is the little image people see on the tab -->
+    <link rel="icon" href="<%= BASE_URL %>vay.ico" />
+    <!-- This is the text that is next to it -->
+    <title>you found vay's website!</title>
+  </head>
+  <body>
+    <noscript>
+      <strong
+        >We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please
+        enable it to continue.</strong
+      >
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
