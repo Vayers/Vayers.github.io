@@ -8,7 +8,7 @@ export default {
   linksTitle: "Socials",
   links: [
     {
-      name: "Vay Channel",
+      name: "Vay Channel, click here for videos.",
       social: "youtube",
       img: "",
       url: "https://www.youtube.com/channel/UCXNYNMa8d7b2TCqFe-1VF_Q",
@@ -28,7 +28,7 @@ export default {
     },
   ],
   youtubeRecommendedTitle: "Recommended Video",
-  youtubeRecommendedID: "OFMZMK-BNIw",
+  youtubeRecommendedID: "n7IlmHEQwY8",
   playlists: [
     {
       name: "Latest uploads",
