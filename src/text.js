@@ -28,7 +28,7 @@ export default {
     },
   ],
   youtubeRecommendedTitle: "Recommended Video",
-  youtubeRecommendedID: "n7IlmHEQwY8",
+  youtubeRecommendedID: "OFMZMK-BNIw",
   playlists: [
     {
       name: "Latest uploads",
