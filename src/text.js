@@ -13,15 +13,12 @@ export default {
       img: "",
       url: "https://www.youtube.com/channel/UCXNYNMa8d7b2TCqFe-1VF_Q",
     },
-
     {
       name: "Vay's personal finance blog",
-      social: "Wordpress",
+      social: "wordpress",
       img: "",
       url: "https://intheblack.blog/",
     },
-
-    
     {
       name: "Sneak peeks server",
       social: "discord",
