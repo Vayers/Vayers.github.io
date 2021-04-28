@@ -17,7 +17,7 @@ export default {
       name: "Vay's personal finance blog",
       social: "wordpress",
       img: "",
-      url: "intheblack.blog",
+      url: "https://intheblack.blog",
     },
     {
       name: "Sneak peeks server",
