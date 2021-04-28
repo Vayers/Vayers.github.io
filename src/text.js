@@ -8,20 +8,28 @@ export default {
   linksTitle: "Socials",
   links: [
     {
-      name: "Vay Channel, click here for videos.",
+      name: "Vay Channel",
       social: "youtube",
       img: "",
       url: "https://www.youtube.com/channel/UCXNYNMa8d7b2TCqFe-1VF_Q",
     },
 
     {
-      name: "This server is where I post sneak peeks of upcoming projects!",
+      name: "Vay's personal finance blog",
+      social: "Wordpress",
+      img: "",
+      url: "https://intheblack.blog/",
+    },
+
+    
+    {
+      name: "Sneak peeks server",
       social: "discord",
       img: "",
       url: "https://discord.gg/aaapBxggFd",
     },
     {
-      name: "Like what vay does and want to show your support? Click here!",
+      name: "Simps this way",
       social: "patreon",
       img: "",
       url: "https://www.patreon.com/vayvay",
