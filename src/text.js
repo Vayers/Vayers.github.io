@@ -32,8 +32,8 @@ export default {
       url: "https://www.patreon.com/vayvay",
     },
   ],
-  youtubeRecommendedTitle: "Recommended Video",
-  youtubeRecommendedID: "OFMZMK-BNIw",
+  youtubeRecommendedTitle: "Just a minute of your time!",
+  youtubeRecommendedID: "h3pVopBNdKc",
   playlists: [
     {
       name: "Latest uploads",
