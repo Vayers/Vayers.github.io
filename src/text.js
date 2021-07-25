@@ -14,10 +14,10 @@ export default {
       url: "https://www.youtube.com/channel/UCXNYNMa8d7b2TCqFe-1VF_Q",
     },
     {
-      name: "Vay's personal finance blog",
-      social: "wordpress",
+      name: "Simps this way",
+      social: "patreon",
       img: "",
-      url: "https://intheblack.blog",
+      url: "https://www.patreon.com/vayvay",
     },
     {
       name: "Sneak peeks server",
@@ -26,14 +26,14 @@ export default {
       url: "https://discord.gg/aaapBxggFd",
     },
     {
-      name: "Simps this way",
-      social: "patreon",
+      name: "Vay's personal finance blog",
+      social: "wordpress",
       img: "",
-      url: "https://www.patreon.com/vayvay",
+      url: "https://intheblack.blog",
     },
   ],
   youtubeRecommendedTitle: "Just a minute of your time!",
-  youtubeRecommendedID: "jSZ5-ygd2uI",
+  youtubeRecommendedID: "LYHlFYXP6Ng",
   playlists: [
     {
       name: "Latest uploads",
