@@ -14,7 +14,7 @@ export default {
       url: "https://www.youtube.com/channel/UCXNYNMa8d7b2TCqFe-1VF_Q",
     },
     {
-      name: "Simps this way",
+      name: "Support me here!",
       social: "patreon",
       img: "",
       url: "https://www.patreon.com/vayvay",
