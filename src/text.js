@@ -33,7 +33,7 @@ export default {
     },
   ],
   youtubeRecommendedTitle: "Just a minute of your time!",
-  youtubeRecommendedID: "LYHlFYXP6Ng",
+  youtubeRecommendedID: "JNnhMJxDlUk",
   playlists: [
     {
       name: "Latest uploads",
