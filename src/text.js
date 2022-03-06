@@ -14,7 +14,7 @@ export default {
       url: "https://www.youtube.com/channel/UCXNYNMa8d7b2TCqFe-1VF_Q",
     },
     {
-      name: "Support me here!",
+      name: "Show me some love here!",
       social: "patreon",
       img: "",
       url: "https://www.patreon.com/vayvay",
@@ -26,10 +26,10 @@ export default {
       url: "https://discord.gg/aaapBxggFd",
     },
     {
-      name: "Vay's personal finance blog",
-      social: "wordpress",
+      name: "Find me on instagram",
+      social: "instagram",
       img: "",
-      url: "https://intheblack.blog",
+      url: "https://www.instagram.com/vayerslim/?hl=en",
     },
   ],
   youtubeRecommendedTitle: "Just a minute of your time!",
